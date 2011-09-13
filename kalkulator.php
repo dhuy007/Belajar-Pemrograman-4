@@ -9,3 +9,7 @@ function kurang(){
 function Kali(){
 
 }
+
+function Bagi(){
+
+}
