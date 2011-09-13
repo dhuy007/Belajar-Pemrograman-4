@@ -1,3 +1,7 @@
 function tambah(){
 
 }
+
+function kurang(){
+
+}
